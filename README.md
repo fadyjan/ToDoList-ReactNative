@@ -1,5 +1,5 @@
 # ToDoList-ReactNative
 
-![](images/1.JPG)
-![](images/2.JPG)
-![](images/3.JPG)
+![](Images/1.JPG)
+![](Images/2.JPG)
+![](Images/3.JPG)
